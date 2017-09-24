@@ -1,1 +1,1 @@
-# bikeride-app-android
+# bikeride-app
